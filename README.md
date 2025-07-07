@@ -47,10 +47,10 @@
 
 | &nbsp; | &nbsp; |
 |:--|:--|
-| 🌐 Portfolio | <https://portfolio-jukiya.vercel.app> |
-| 📝 Zenn | <https://zenn.dev/jukiya> |
-| 🐦 X/Twitter | [@jukiya_dev](https://twitter.com/jukiya_dev) |
-| 📧 Mail | contact@jukiya.dev |
+| 🌐 Portfolio | ~準備中~|
+| 📝 Zenn | <https://zenn.dev/jukki1091> |
+| 🐦 X/Twitter | [@KJ10091_tech](https://twitter.com/KJ10091_tech) |
+
 
 ---
 
