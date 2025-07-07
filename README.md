@@ -1,7 +1,7 @@
 <!-- README.md @ github.com/<username>/<username> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I’m+Jukiya+%F0%9F%91%8B;Web+Engineer;ML+Enthusiast;Aspiring+Entrepreneur&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I’m+Jukiya+%F0%9F%91%8B;Web+Engineer;ML+Enthusiast;Aspiring+Entrepreneur&center=true&size=30">
 </h1>
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 | &nbsp; | &nbsp; |
 |:--|:--|
-| 🌐 Portfolio | ~準備中~|
+| 🌐 Portfolio | 準備中|
 | 📝 Zenn | <https://zenn.dev/jukki1091> |
 | 🐦 X/Twitter | [@KJ10091_tech](https://twitter.com/KJ10091_tech) |
 
@@ -57,6 +57,3 @@
 
 > *“Code is a language the future understands.”*  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="150"/>
-</p>
