@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- README.md @ github.com/<username>/<username> -->
 
-<!--
-**JukiyaK10/JukiyaK10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I’m+Jukiya+%F0%9F%91%8B;Web+Engineer;ML+Enthusiast;Aspiring+Entrepreneur&center=true&size=22">
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/jukiyakusuki">
+    <img src="https://komarev.com/ghpvc/?username=jukiyakusuki&style=flat-square&color=blue" alt="Profile views"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Information Engineering student / 2025 SDE @ 🍣 Tech Co.
+- ⚙️ Exploring **TypeScript, Next.js, Supabase, Go**  
+- 🧠 Researching **speech recognition × reservoir computing**  
+- 🏗 Interested in **business turn-arounds / micro-M&A**  
+- 🚀 Building side-projects & documenting the journey
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
+  <img src="https://supabase.com/images/logo-dark.png" height="30" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind"/>
+  <img src="https://raw.githubusercontent.com/shadcn/ui/12b75/logo.svg" height="30" alt="shadcn"/>
+</div>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jukiyakusuki&show_icons=true&theme=tokyonight&hide=issues,contribs" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jukiyakusuki&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🔗 Links
+
+| &nbsp; | &nbsp; |
+|:--|:--|
+| 🌐 Portfolio | <https://portfolio-jukiya.vercel.app> |
+| 📝 Zenn | <https://zenn.dev/jukiya> |
+| 🐦 X/Twitter | [@jukiya_dev](https://twitter.com/jukiya_dev) |
+| 📧 Mail | contact@jukiya.dev |
+
+---
+
+> *“Code is a language the future understands.”*  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="150"/>
+</p>
